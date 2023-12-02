@@ -5,10 +5,10 @@ This project demonstrates the use of Selenium WebDriver with Java in Eclipse IDE
 The objective of this project is to showcase the implementation of Selenium WebDriver for web automation on the Edureka platform.
 
 ## Features
-Login Functionality: Automates the login process to the Edureka website.
-Navigation to Profile Page: Navigates to the user's profile page within the site.
-Update Career Interests: Performs updates to the career interest section on the user's profile.
-Logout: Automates the logout process from the website.
+1.Login Functionality: Automates the login process to the Edureka website.
+2.Navigation to Profile Page: Navigates to the user's profile page within the site.
+3.Update Career Interests: Performs updates to the career interest section on the user's profile.
+4.Logout: Automates the logout process from the website.
 
 ## Requirements
 Java Development Kit (JDK): Ensure you have JDK installed on your system.
