@@ -1,7 +1,7 @@
 ### EdurekaAutomation
 This project demonstrates the use of Selenium WebDriver with Java in Eclipse IDE to automate specific tasks on the Edureka website. The primary functionalities include logging in, navigating to the user's profile page, updating career interests, and logging out.
 
-##Project Overview
+## Project Overview
 The objective of this project is to showcase the implementation of Selenium WebDriver for web automation on the Edureka platform.
 
 ##Features
