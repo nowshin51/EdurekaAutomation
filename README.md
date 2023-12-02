@@ -10,7 +10,7 @@ Navigation to Profile Page: Navigates to the user's profile page within the site
 Update Career Interests: Performs updates to the career interest section on the user's profile.
 Logout: Automates the logout process from the website.
 
-##Requirements
+## Requirements
 Java Development Kit (JDK): Ensure you have JDK installed on your system.
 Eclipse IDE: Use Eclipse IDE for Java development.
 Selenium WebDriver: Add Selenium WebDriver libraries to your project.
