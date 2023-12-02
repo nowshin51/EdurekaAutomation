@@ -18,7 +18,7 @@ The objective of this project is to showcase the implementation of Selenium WebD
 5. TestNG
 
 ## Installation and Setup
-Clone or download this repository to your local machine.
+Clone or download this repository to your local machine. <br>
 Import the project into Eclipse IDE.
 Set up the Selenium WebDriver libraries in the project build path.
 Download the WebDriver for your preferred browser and specify its path in the project.
