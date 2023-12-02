@@ -11,10 +11,11 @@ The objective of this project is to showcase the implementation of Selenium WebD
 4. Logout: Automates the logout process from the website.
 
 ## Requirements
-Java Development Kit (JDK): Ensure you have JDK installed on your system.
-Eclipse IDE: Use Eclipse IDE for Java development.
-Selenium WebDriver: Add Selenium WebDriver libraries to your project.
-Browser Driver: Download and configure the appropriate WebDriver for your chosen browser (e.g., ChromeDriver for Google Chrome).
+1. Java Development Kit (JDK): Ensure you have JDK installed on your system.
+2. Eclipse IDE: Use Eclipse IDE for Java development.
+3. Selenium WebDriver: Add Selenium WebDriver libraries to your project.
+4. Browser Driver: Download and configure the appropriate WebDriver for your chosen browser (e.g., ChromeDriver for Google Chrome).
+5. TestNG
 
 ## Installation and Setup
 Clone or download this repository to your local machine.
