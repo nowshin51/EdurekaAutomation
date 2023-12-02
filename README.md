@@ -34,5 +34,5 @@ Configuration: Adjust configurations in the provided Java files according to you
 ## Contributors
 Sanjina Nowshin
 
-##Acknowledgments
+## Acknowledgments
 Special thanks to Edureka for providing the platform for testing this automation project.
