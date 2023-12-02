@@ -16,7 +16,7 @@ Eclipse IDE: Use Eclipse IDE for Java development.
 Selenium WebDriver: Add Selenium WebDriver libraries to your project.
 Browser Driver: Download and configure the appropriate WebDriver for your chosen browser (e.g., ChromeDriver for Google Chrome).
 
-##Installation and Setup
+## Installation and Setup
 Clone or download this repository to your local machine.
 Import the project into Eclipse IDE.
 Set up the Selenium WebDriver libraries in the project build path.
