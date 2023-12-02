@@ -24,12 +24,12 @@ Set up the Selenium WebDriver libraries in the project build path.<br>
 Download the WebDriver for your preferred browser and specify its path in the project.<br>
 
 ## Usage
-Open the project in Eclipse IDE.
-Configure the necessary parameters such as username, password, etc., in the provided Java files.
-Run the main script to execute the automation tasks.
+Open the project in Eclipse IDE.<br>
+Configure the necessary parameters such as username, password, etc., in the provided Java files.<br>
+Run the main script to execute the automation tasks.<br>
 
 ## Notes
-Credentials: Use valid login credentials for the Edureka website.
+Credentials: Use valid login credentials for the Edureka website.<br>
 Configuration: Adjust configurations in the provided Java files according to your requirements.
 
 ## Contributors
