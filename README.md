@@ -31,7 +31,7 @@ Run the main script to execute the automation tasks.
 Credentials: Use valid login credentials for the Edureka website.
 Configuration: Adjust configurations in the provided Java files according to your requirements.
 
-##Contributors
+## Contributors
 Sanjina Nowshin
 
 ##Acknowledgments
