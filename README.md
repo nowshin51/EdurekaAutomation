@@ -27,7 +27,7 @@ Open the project in Eclipse IDE.
 Configure the necessary parameters such as username, password, etc., in the provided Java files.
 Run the main script to execute the automation tasks.
 
-##Notes
+## Notes
 Credentials: Use valid login credentials for the Edureka website.
 Configuration: Adjust configurations in the provided Java files according to your requirements.
 
