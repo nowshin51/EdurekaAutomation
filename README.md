@@ -22,7 +22,7 @@ Import the project into Eclipse IDE.
 Set up the Selenium WebDriver libraries in the project build path.
 Download the WebDriver for your preferred browser and specify its path in the project.
 
-##Usage
+## Usage
 Open the project in Eclipse IDE.
 Configure the necessary parameters such as username, password, etc., in the provided Java files.
 Run the main script to execute the automation tasks.
