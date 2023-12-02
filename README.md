@@ -4,7 +4,7 @@ This project demonstrates the use of Selenium WebDriver with Java in Eclipse IDE
 ## Project Overview
 The objective of this project is to showcase the implementation of Selenium WebDriver for web automation on the Edureka platform.
 
-##Features
+## Features
 Login Functionality: Automates the login process to the Edureka website.
 Navigation to Profile Page: Navigates to the user's profile page within the site.
 Update Career Interests: Performs updates to the career interest section on the user's profile.
